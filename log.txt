@@ -1,4 +1,5 @@
-275e137 (HEAD -> main, origin/main, origin/HEAD) Task 2.3 Removing frmt
+7ee1f75 (HEAD -> main, origin/main, origin/HEAD) Task 2.4 Removing Total Volume Credits and Total Amount
+275e137 Task 2.3 Removing frmt
 66fe0fc Task 2.2 Extracting volume credits
 43821d3 Task 2.1 Updated log.txt
 195c6c1 Task 2.1 Extracting switch logic
