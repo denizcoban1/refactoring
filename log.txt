@@ -1,4 +1,5 @@
-195c6c1 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 Extracting switch logic
+43821d3 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 Updated log.txt
+195c6c1 Task 2.1 Extracting switch logic
 d6f0689 Task 1.2 Git Log
 4b0bda0 Task 1.1 Fixed CheckStyle issues
 1aa9fed Initial commit
